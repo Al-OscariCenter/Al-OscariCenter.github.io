@@ -1,7 +1,12 @@
 CACHE MANIFEST
-# v1.1
+# v1.2
 index.html
 jb.js
+core.js
+mem.js
+int64.js
+ps4_offsets.js
+rpc_worker.js
 logo.jpg
 
 NETWORK:
