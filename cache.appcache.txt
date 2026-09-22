@@ -1,0 +1,7 @@
+CACHE MANIFEST
+# v1.0
+index.html
+jb.js
+
+NETWORK:
+*
